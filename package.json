@@ -1,5 +1,6 @@
 {
-  "name": "jetlinks-work-order",
+  "name": "jetlinks-work-order-ui",
+  "id": "jetlinks-work-order",
   "version": "1.0.0",
   "description": "工单",
   "main": "index.js",
